@@ -1,0 +1,14 @@
+# Editor directories
+.vscode
+.idea/
+
+# Byte-compiled
+__pycache__/
+
+# Pyinstaller files
+build/
+dist/
+*.spec
+
+output/
+data/
